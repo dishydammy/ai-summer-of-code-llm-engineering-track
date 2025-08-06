@@ -64,7 +64,7 @@ A Streamlit-based application that allows users to upload PDF documents and ask 
 1. Activate your virtual environment
 2. Run the Streamlit app:
    ```bash
-   streamlit run DocApp.py
+   streamlit run app.py
    ```
 3. Open your browser at `http://localhost:8501`
 
